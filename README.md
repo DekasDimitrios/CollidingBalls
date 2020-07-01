@@ -1,3 +1,3 @@
-# Graphics-Balls
+# Colliding Balls
 
 Dynamic balls collision using Graphics.h
